@@ -1,0 +1,38 @@
+The very every first class for any scripting is variables.
+
+what is Variables?
+
+Variables is a temporary stores for  a piece of information. In variables we can perform 2 actions.
+
+1) Assigning the Variables value.
+2) Accessing or reading the variable value.
+
+Example:
+
+For assigning the variables, use = symbols.
+For reading and accessing the variables, use $ symbols.
+
+Sytnex: Assigning the varaibles.
+                        Variable_name=Variable_value
+                     eg: Name="sharath" [NOTE: when we use value as STRING in bash scripting use ("") double quotes or ('') single quotes]
+
+Syntex: Reading/Accessing the variables value.
+                        $variable_name [It will extract the value of variable]
+                      eg:echo $Name
+                       output: Sharath
+
+Why to use variables?
+
+Variables are used to simplify the scripts and also make script re-usable for other projects.
+
+Tip of this document:
+
+1)learns variable
+2)make you comfortable with variable for next sessions.
+
+
+Focus of this document:
+
+1)practise as much as on varaibles.
+2)make scripts re-usable.
+
