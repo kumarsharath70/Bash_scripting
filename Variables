@@ -20,7 +20,13 @@ Syntex: Reading/Accessing the variables value.
                         $variable_name [It will extract the value of variable]
                       eg:echo $Name
                        output: Sharath
-
+                       
+syntex: if it's command use back ticks '``' or use () with $ symbol
+                       $(any command) or `any command`
+                       eg: $(whoami) or `whoami`
+                       output:username you logged into the system.
+                       
+                       
 Why to use variables?
 
 Variables are used to simplify the scripts and also make script re-usable for other projects.
